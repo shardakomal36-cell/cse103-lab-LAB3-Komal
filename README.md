@@ -1,4 +1,4 @@
-  # CSE103 LAB 3
+Updated README from GitHub to practice pulling changes.  # CSE103 LAB 3
 
 ## Git Repository Management
 
